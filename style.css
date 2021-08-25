@@ -20,3 +20,10 @@ article {
 .share {
     margin: 0 auto;
 }
+
+.banner {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin: 0 auto;
+}
